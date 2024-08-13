@@ -2,7 +2,7 @@
 
 <div align="justify">
 <p>  
-This methodology is structured to guide through the process of going from raw data to the final result of predicting stock movements based on news articles. I've broken down the project into six key steps and one additional step. Each step covers the functions associated with it, how to use them, their functionality, and the expected results. The focus is on the main functionality of the project. Because of that, not every function and its corresponding docstrings are explicitly mentioned or fully displayed here. If code has been cut from the methodology, you'll see this "<i>[...]</i>". For a full explanation of each function, refer to the docstrings in the main <a href="https://github.com/LennardFe/Stock-News-Analysis-with-BERT/blob/main/notebook.ipynb">notebook</a>. </p>
+This methodology is structured to guide through the process of going from raw data to the final result of predicting stock movements based on news articles. I've broken down the project into six key steps and one additional step. Each step covers the functions associated with it, how to use them, their functionality, and the expected results. The focus is on the main functionality of the project. Because of that, not every function and its corresponding docstrings are explicitly mentioned or fully displayed here. If code has been cut from the methodology, you'll see this "<i>[...]</i>". For a full explanation of each function, refer to the docstrings in the main <a href="https://github.com/LennardFe/Stock-News-Analysis-with-BERT/blob/main/nb_practicalproject.ipynb">notebook</a>. </p>
 </div>
 
 <br>
