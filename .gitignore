@@ -1,0 +1,21 @@
+# TODO: do i need this?
+.vscode/ 
+
+# __pycache__
+assets/__pycache__/
+*.py[cod]
+*$py.class
+
+# Byte-compiled / optimized / DLL files 
+__pycache__/
+*.py[cod]
+*$py.class
+
+# assets
+assets/
+
+# virtual enviroment
+.venv/
+
+# models
+models/
